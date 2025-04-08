@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="static/subshotlogo.jpg" alt="subfinder" width="200px">
+  <br>
+</h1>
+
 <h4 align="center">Fast live subdomain enumeration tool</h4>
 
 <p align="center">
