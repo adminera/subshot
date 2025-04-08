@@ -1,0 +1,23 @@
+# VS Code settings
+.vscode/
+
+# Output from recon scripts
+*_live.txt
+*.txt
+
+# Log files
+*.log
+
+# Go build and binary files (if any)
+bin/
+pkg/
+*.exe
+*.out
+*.test
+
+# Environment or secrets 
+*.env
+
+# Temp files and backups
+*.swp
+*~
