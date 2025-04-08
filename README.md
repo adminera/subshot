@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/subshotlogo.jpg" alt="subfinder" width="300px">
+  <img src="static/subshotlogo.jpg" alt="subshot" width="150px">
   <br>
 </h1>
 
