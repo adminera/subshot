@@ -48,7 +48,11 @@ In order to be able to run the program you must grant it the correct permissons 
 chmod +x subshot.sh
 ```
 
+# Usage
 
+```sh
+./subshot.sh
+```
 
 
 
