@@ -7,4 +7,4 @@ This tool will streamline web pentesting engagements and bug bounty hunting by a
 
 This tool also streamlines the subdomain recon process as the ethical hacker does not need to run subfinder and httpx manually in the terminal which can cost time, especially over working with many targets.
 
-Please use this in a ethical and legal manner
+
