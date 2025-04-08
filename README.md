@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#Features">Features</a> •
   <a href="#Install">Install</a> •
-  <a href="#Post Installation">Post Installation</a> •
+  <a href="#Post-Installation">Post Installation</a> •
   <a href="#Usage">Usage</a> •
   
 </p>
@@ -47,6 +47,7 @@ In order to be able to run the program you must grant it the correct permissons 
 ```sh
 chmod +x subshot.sh
 ```
+
 
 
 
