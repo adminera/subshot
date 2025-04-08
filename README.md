@@ -8,8 +8,9 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
-  <a href="#running-subshot">Usage</a> •
-  <a href="#post-installation-instructions">Post Installation</a> •
+  <a href="#post installation">Post Installation</a> 
+  <a href="#usage">Usage</a> •
+  
 </p>
 
 
