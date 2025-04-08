@@ -29,6 +29,25 @@ This tool also streamlines the subdomain recon process as the ethical hacker doe
 
 # Install
 
-`subshot` requires **subfinder** and **httpx** to install successfully. Run the following command to install the latest version:
+`subshot` requires **subfinder** and **httpx** to install successfully. 
+
+These can be installed on Github through here:
+
+<a href="https://github.com/projectdiscovery/subfinder">Subfinder</a>
+
+<a href="https://github.com/projectdiscovery/httpx">httpx</a>
+
+Please make sure that `subshot` is in the same directory as subfinder and httpx
+
+# Post Installation
+
+In order to be able to run the program you must grant it the correct permissons first, Run the following in terminal:
+
+```sh
+chmod +x subshot.sh
+```
+
+
+
 
 
