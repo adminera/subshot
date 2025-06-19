@@ -18,7 +18,7 @@
 
 `subshot` is a bash script tool that will take a given domain and enumerate the subdomains using the popular tool subfinder and then it will filter out the live subdomains using httpx
 
-Once the program is ran, there is 
+Once the program is ran, there is an option for enumerating a single domain or a list of domains. When the input is provided by the user it is sanitzed so when you are copy and pasting from a bug bounty program it is efficient.
 
 This tool will streamline web pentesting engagements and bug bounty hunting by allowing ethical hackers to filter out valuable subdomains to work on rather than manually checking the original subdomains.
 
